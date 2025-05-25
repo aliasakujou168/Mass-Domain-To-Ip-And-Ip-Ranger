@@ -1,6 +1,7 @@
 # Mass Domain To IP And IP Ranger
 
-![Screenshot From 2025-05-25 16-46-50](https://github.com/user-attachments/assets/02dcf9eb-4ec3-4aa1-b3ef-a8236c382227)
+![Screenshot From 2025-05-25 17-08-38](https://github.com/user-attachments/assets/4f2be7c5-d084-4c7c-bb01-98bf8b201150)
+
 
 
 A tool designed to convert multiple domain lists into IP and generate IP ranges.
