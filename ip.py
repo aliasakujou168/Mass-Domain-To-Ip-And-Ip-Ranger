@@ -109,7 +109,7 @@ def main():
     """
     print(ascii_art)
     print(f"{Fore.CYAN}Mass Domain To IP & Mass IP Ranger{Style.RESET_ALL}")
-    print(f"{Fore.LIGHTBLUE_EX}GitHub: {Fore.YELLOW}https://github.com/aliasakujou168{Style.RESET_ALL}")
+    print(f"{Fore.LIGHTBLUE_EX}GitHub: {Fore.YELLOW}https://github.com/alisakujou168{Style.RESET_ALL}")
     print(f"{Fore.YELLOW}{'-'*40}{Style.RESET_ALL}")
     print(f"{Fore.GREEN}Pilih opsi:{Style.RESET_ALL}")
     print(f"{Fore.BLUE}1. Mass Domain To IP{Style.RESET_ALL}")
